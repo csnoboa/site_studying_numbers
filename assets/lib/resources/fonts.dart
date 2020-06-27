@@ -4,3 +4,6 @@ import 'package:studynumbers/size_config.dart';
 TextStyle textOne = TextStyle(fontSize: SizeConfig.safeBlockVertical * 4 );
 TextStyle textOneBold = TextStyle(fontWeight: FontWeight.bold ,fontSize: SizeConfig.safeBlockVertical * 4);
 TextStyle textSeparator = TextStyle(fontSize: SizeConfig.safeBlockVertical * 4 );
+
+TextStyle textTitleTable = TextStyle(fontSize: SizeConfig.safeBlockHorizontal * 1.2 );
+TextStyle textRowTable = TextStyle(fontSize: SizeConfig.safeBlockHorizontal * 1.2 );
