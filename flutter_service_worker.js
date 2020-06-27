@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "fa2e61144835b326c85db7f44cd7a9ad",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/lib/resources/fonts.dart": "be3e73f497f1aa703129e328005d2617",
+"assets/lib/resources/fonts.dart": "3f682bb0f23bfeff165ea4b3b9d14070",
 "assets/NOTICES": "d1849c342fc8d6c99cb04a1b2fe02ccd",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -14,7 +14,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "fd4496d0a80a3329380035a38952c35a",
 "/": "fd4496d0a80a3329380035a38952c35a",
-"main.dart.js": "6f31d8d8077459e8283e4c052752c078",
+"main.dart.js": "c7d0be4eb3b0bf3fc4d00c6d493ea935",
 "manifest.json": "d105e301c3e1b384d41f1d1941c20978"
 };
 
