@@ -6844,7 +6844,7 @@ while(true)switch(t){case 0:t=b?3:5
 break
 case 3:q=u.X
 t=6
-return P.as(G.af2("http://127.0.0.1:5000/api/resource",C.aK.uC(P.W(["number",a],q,q),null)),$async$a_d)
+return P.as(G.af2("https://studyingnumbers.herokuapp.com/api/resource",C.aK.uC(P.W(["number",a],q,q),null)),$async$a_d)
 case 6:p=d
 o=p.b
 P.dv("Response Status code: "+H.b(o))
