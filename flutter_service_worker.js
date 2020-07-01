@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "98a7964d943ea0a39c57c67d63972d75",
+  "assets/AssetManifest.json": "30683a61c602a4de53ce4e9e99e42a1b",
 "assets/assets/images/diagram-languages.jpeg": "ce4131d7087420d35b67ba1ab6c07ee8",
 "assets/assets/images/numbers.jpeg": "a1ebeaf26a59cdaa9dc31bf783c639f0",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/lib/resources/fonts.dart": "62c6424c3cf31356a650e732b9e5d55a",
+"assets/lib/resources/fonts.dart": "2cb15247d910ec680763fabd1337e38d",
+"assets/lib/resources/menu.dart": "349de5ac96d71d8ae7b6d76c9ae4ad29",
 "assets/NOTICES": "208fa2cedd70c3760597ab83c21c084f",
 "assets/packages/country_icons/icons/flags/png/2.5x/ad.png": "9ab17d57db08e440f27c65f0b29bd520",
 "assets/packages/country_icons/icons/flags/png/2.5x/ae.png": "fd9b156fd27b63807fb4c0755cd2a073",
@@ -782,7 +783,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "be54c5bb922db1ea737ccc8c554ecd08",
 "/": "be54c5bb922db1ea737ccc8c554ecd08",
-"main.dart.js": "76cb26c41f4f28b9abab33da24657960",
+"main.dart.js": "76a2a773dd6320f61ff7faa699910c5d",
 "manifest.json": "d105e301c3e1b384d41f1d1941c20978"
 };
 
