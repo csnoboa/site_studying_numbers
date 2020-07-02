@@ -11,7 +11,6 @@ class MenuItem {
 const List<MenuItem> menuItems = const <MenuItem>[
   const MenuItem(title: 'Table Converter', route: '/table'),
   const MenuItem(title: 'About Us', route: '/table'),
-  const MenuItem(title: 'Contact Us', route: '/table'),
   const MenuItem(title: 'Polity', route: '/table'),
 ];
 

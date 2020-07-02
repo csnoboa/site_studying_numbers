@@ -8,8 +8,8 @@ const RESOURCES = {
 "assets/assets/images/numbers.jpeg": "a1ebeaf26a59cdaa9dc31bf783c639f0",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/lib/resources/fonts.dart": "2cb15247d910ec680763fabd1337e38d",
-"assets/lib/resources/menu.dart": "349de5ac96d71d8ae7b6d76c9ae4ad29",
+"assets/lib/resources/fonts.dart": "a3f20d31336c3d8467a3fd58ad9b2096",
+"assets/lib/resources/menu.dart": "55bf468d76017b20f1d2043af2946adc",
 "assets/NOTICES": "208fa2cedd70c3760597ab83c21c084f",
 "assets/packages/country_icons/icons/flags/png/2.5x/ad.png": "9ab17d57db08e440f27c65f0b29bd520",
 "assets/packages/country_icons/icons/flags/png/2.5x/ae.png": "fd9b156fd27b63807fb4c0755cd2a073",
@@ -781,9 +781,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "be54c5bb922db1ea737ccc8c554ecd08",
-"/": "be54c5bb922db1ea737ccc8c554ecd08",
-"main.dart.js": "76a2a773dd6320f61ff7faa699910c5d",
+"index.html": "83e74e5c64d092430de9339460697dc1",
+"/": "83e74e5c64d092430de9339460697dc1",
+"main.dart.js": "2c878c16f296c806a6972c2b9cb60aee",
 "manifest.json": "d105e301c3e1b384d41f1d1941c20978"
 };
 
