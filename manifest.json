@@ -1,6 +1,6 @@
 {
-    "name": "studynumbers",
-    "short_name": "studynumbers",
+    "name": "StudyingNumbers",
+    "short_name": "StudyingNumbers",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
