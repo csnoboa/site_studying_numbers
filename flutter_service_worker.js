@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "127a02cce8bac2959e66489ea5035571",
+  "app.js": "3ff89b36ad447f86efbc0929bac57d7f",
+"assets/AssetManifest.json": "127a02cce8bac2959e66489ea5035571",
 "assets/assets/images/diagram-languages.jpeg": "ce4131d7087420d35b67ba1ab6c07ee8",
 "assets/assets/images/favicon_created_by_logaster.ico": "b01de08fd2270be8490683b4c9e2d2d4",
 "assets/assets/images/numbers.jpeg": "a1ebeaf26a59cdaa9dc31bf783c639f0",
@@ -782,8 +783,8 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "f5f3ebcfbe5f225c40d4ca971ee3fc3d",
-"/": "f5f3ebcfbe5f225c40d4ca971ee3fc3d",
+"index.html": "248115fe828e0af3a07719925121cb56",
+"/": "248115fe828e0af3a07719925121cb56",
 "main.dart.js": "7227ca0180092d00856ecc04b1c44a08",
 "manifest.json": "ea83346d947cbd83a9922ecec0f318de"
 };
