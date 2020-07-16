@@ -19091,7 +19091,7 @@ s.setAttribute("aria-label","Enable accessibility")
 s=t.b.style
 s.position="absolute"
 s.left="0"
-s.top="0"
+s.top="150"
 s.right="0"
 s.bottom="0"
 return t.b}}
@@ -20239,7 +20239,7 @@ q=new H.aW(new Float32Array(16))
 q.bI()
 p=t.style
 p.position="absolute"
-p.top="0"
+p.top="150"
 p.right="0"
 p.bottom="0"
 p.left="0"
@@ -21543,7 +21543,7 @@ s.ch=new H.of(t.createElement("p"))
 t=s.Q.style
 t.visibility="hidden"
 t.position="absolute"
-t.top="0"
+t.top="150"
 t.left="0"
 t.display="flex"
 C.d.a5(t,C.d.Z(t,"flex-direction"),"row","")
@@ -21747,7 +21747,7 @@ r=t.style
 r.whiteSpace="pre-wrap"
 C.d.a5(r,C.d.Z(r,"align-content"),"center","")
 r.position="absolute"
-r.top="0"
+r.top="150"
 r.left="0"
 r.padding="0"
 C.d.a5(r,C.d.Z(r,"opacity"),"1","")
