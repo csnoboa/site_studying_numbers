@@ -14,6 +14,11 @@
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/png" href="assets/images/favicon_created_by_logaster.ico"/>
 
+  <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+  <script async custom-element="amp-sticky-ad" src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js"></script>
+
+
+
   <title>StudyingNumbers</title>
   <link rel="manifest" href="manifest.json">
   <script src="https://cdn.jsdelivr.net/npm/howler@2.1.3/dist/howler.min.js"></script>
@@ -27,24 +32,14 @@
     }
   </script>
 
-  <!-- <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-  <script async custom-element="amp-sticky-ad" src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js"></script>
-
-  
-  <amp-ad width="300" height="50" type="doubleclick" data-slot="/150790500/24322_AMP_300x50"> </amp-ad>
-  <script src="//api.grumft.com/js/c8c412673cbd0bebc321796130a716e7.js"></script> -->
-
-  <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-  <script async custom-element="amp-sticky-ad" src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js"></script>
 </head>
 <body>
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
-  <!-- <script src="//api.grumft.com/js/c8c412673cbd0bebc321796130a716e7.js" type="aplication/javascript"></script> -->
+  <amp-sticky-ad layout="nodisplay"><amp-ad width="320" height="50" type="doubleclick" data-slot="/150790500/24322_AMP_STK_320x50"> </amp-ad></amp-sticky-ad>
   <script src="//api.grumft.com/js/c8c412673cbd0bebc321796130a716e7.js"></script>
   <!-- <script src="//api.grumft.com/gt/ZONA_IAB_970x250/c8c412673cbd0bebc321796130a716e7.js"></script> -->
-  <!-- <script src="//api.grumft.com/gt/ZONA_IAB_970x250/c8c412673cbd0bebc321796130a716e7.js" type="aplication/javascript"></script> -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
@@ -54,6 +49,5 @@
   </script>
   <script src="main.dart.js" type="application/javascript"></script>
   <script src="//api.grumft.com/gt/ZONA_IAB_970x250/c8c412673cbd0bebc321796130a716e7.js"></script>
-  <amp-ad width="300" height="50" type="doubleclick" data-slot="/150790500/24322_AMP_300x50"> </amp-ad>
   </body>
 </html>

@@ -4,6 +4,8 @@ import 'package:StudyingNumbers/size_config.dart';
 TextStyle textOneTitle = TextStyle(
     fontWeight: FontWeight.bold, fontSize: SizeConfig.safeBlockVertical * 4.5);
 TextStyle textOne = TextStyle(fontSize: SizeConfig.safeBlockVertical * 4);
+TextStyle textOneVersion =
+    TextStyle(fontSize: SizeConfig.safeBlockVertical * 3, color: Colors.grey);
 TextStyle textOneAppBar =
     TextStyle(fontSize: SizeConfig.safeBlockVertical * 4, color: Colors.white);
 TextStyle textOneLink =
