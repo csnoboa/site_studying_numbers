@@ -783,8 +783,8 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "4e16c15398be837c7f36f6058b72beef",
-"/": "4e16c15398be837c7f36f6058b72beef",
+"index.html": "056d04f1740ff88774513b660c369446",
+"/": "056d04f1740ff88774513b660c369446",
 "main.dart.js": "28ed918419962c70e85e2d1459a4dac2",
 "manifest.json": "ea83346d947cbd83a9922ecec0f318de"
 };
